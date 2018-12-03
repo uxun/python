@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # encoding: utf-8
 """
-爬取百度地图信息
+爬取百度地图信息#
 @author:nikan
 
 @file: baidu_map.py
